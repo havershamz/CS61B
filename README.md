@@ -1,2 +1,2 @@
-# cs61b
-This is a cs61b learning project
+# CS61B
+A CS61B learning project
